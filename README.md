@@ -1,6 +1,10 @@
 # GHFollowers
 iOS App built during Sean Allen's iOS Take Home Project course. Really enjoyed this course and learned so much!
 
+![Image of the App 1](GHFollowers-1png)
+
+![Image of the App 2](GHFollowers-2.png)
+
 ## What does the app do?
 - Search for a GitHub accounts followers
 - View each followers user information
